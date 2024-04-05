@@ -5,8 +5,9 @@ from typing import Callable
 
 import numpy as np
 
-from GGanalysis.games.honkai_star_rail.relic_data import *
-from GGanalysis.ScoredItem.scored_item import ScoredItem, ScoredItemSet
+#from games.honkai_star_rail.relic_data import *
+#from scored_item import ScoredItem, ScoredItemSet
+#Import these from external hook
 
 """
     Honkai Impact: Star Rail Relic Types

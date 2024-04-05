@@ -1,5 +1,5 @@
-from GGanalysis.plot_tools import *
-from GGanalysis.distribution_1d import FiniteDist, pad_zero
+from plot_tools import *
+from distribution_1d import FiniteDist, pad_zero
 from matplotlib.ticker import AutoMinorLocator
 import matplotlib.cm as cm
 import os

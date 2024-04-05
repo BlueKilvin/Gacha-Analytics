@@ -1,9 +1,9 @@
 '''
     Note that the probability model used in this module is only speculation and cannot be guaranteed to be completely accurate.
 '''
-from GGanalysis.distribution_1d import *
-from GGanalysis.gacha_layers import *
-from GGanalysis.basic_models import *
+from distribution_1d import *
+#from gacha_layers import *
+from basic_models import *
 
 __all__ = [
     'PITY_5STAR',

@@ -313,7 +313,7 @@ def add_vertical_quantile_pmf(ax, pdf: np.ndarray, quantile_pos:list, mark_name=
                 )
 
 if __name__ == '__main__':
-    import GGanalysis.games.genshin_impact as GI
+    #import games.genshin_impact as GI
     # fig, ax, _, _, y_grids, y_gap = set_square_grid_fig(max_pull=200)
     # # add_stroke_dot(ax, 0.5, 500, s=3)
     # add_vertical_cdf(

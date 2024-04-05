@@ -1,7 +1,7 @@
 import numpy as np
 from scipy.special import comb
-from GGanalysis.distribution_1d import *
-from GGanalysis.basic_models import PityModel
+from distribution_1d import *
+from basic_models import PityModel
 
 
 def calc_stationary_distribution(M):
