@@ -10,6 +10,6 @@ A set of tools for analysing and modelling Character, Light Cone and Relic draw 
 
 ### NOTES:
 * This version requires static distribution probabilities to be updated manually. (Updated for Star Rail 1.4)
-* Uses [minhook](https://github.com/TsudaKageyu/minhook) to gather data from user client.
+* Uses [minhook](https://github.com/TsudaKageyu/minhook) for client side.
 * Can only be used with the global pc client.
 * Based on work done on [Star Rail Station](https://starrailstation.com/en)
